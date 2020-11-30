@@ -6,7 +6,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 
-public class ebaySearch {
+public class ebaySearch2 {
 	
 	public static void main(String[] args) {
 		
