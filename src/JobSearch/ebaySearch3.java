@@ -27,7 +27,7 @@ public class ebaySearch3 {
 		System.out.println("Internet driver is working as expected");
 	
 		
-		System.out.println(" EbaySearch Code 3 completed ");
+		System.out.println(" EbaySearch Code 3 completed and updated ");
 		
 		wb.close();
 		
