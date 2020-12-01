@@ -26,7 +26,7 @@ public class ebaySearch3 {
 		wb.get("https://www.google.com");
 		System.out.println("Internet driver is working as expected");
 		
-		System.out.println("Code updated");
+		System.out.println("Code updated 123");
 		
 		wb.close();
 		
