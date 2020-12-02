@@ -6,7 +6,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 
-public class ebaySearch3 {
+public class ebaySearch4 {
 	
 	public static void main(String[] args) {
 		
@@ -27,8 +27,6 @@ public class ebaySearch3 {
 		System.out.println("Internet driver is working as expected");
 		
 		System.out.println("Code updated 123");
-		
-		System.out.println("Code updated 124");
 		
 		wb.close();
 		
