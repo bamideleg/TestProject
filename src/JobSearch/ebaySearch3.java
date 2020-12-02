@@ -23,11 +23,10 @@ public class ebaySearch3 {
 		InternetExplorerDriver wb = new InternetExplorerDriver();
 		
 //		
-		wb.get("https://www.ebay.com");
+		wb.get("https://www.google.com");
 		System.out.println("Internet driver is working as expected");
-	
 		
-		System.out.println("Code updated and checked into Git");
+		System.out.println("Code updated 123");
 		
 		wb.close();
 		
